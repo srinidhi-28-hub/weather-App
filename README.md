@@ -4,5 +4,6 @@ Search weather by city name.
 It displays temperature 
 Clean and responsive UI
 API: OpenWeather API / WeatherAPI
-frontend:html
-styling:css
+frontend : html
+styling : css
+🌦
